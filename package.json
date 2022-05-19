@@ -1,0 +1,14 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geoffreytools/Foo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "free-types": "github:geoffreytools/free-types-private"
+  }
+}
